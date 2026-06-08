@@ -1,2 +1,0 @@
-# Hitachi
-Web para licitaciones
